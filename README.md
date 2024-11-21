@@ -27,7 +27,7 @@ Liberías:
 'SwiftMessages' = para mensajes de error de servicio que se presentan en la parte superior de la app
 'Toast-Swift' = para que se muestren los toast
 
-Capturas de las Vistas:
+
 <img width="219" alt="captura1" src="https://github.com/user-attachments/assets/b34740cf-eb5a-40c6-90b7-1e84093b6099">
 <img width="216" alt="captura2" src="https://github.com/user-attachments/assets/9abfa060-07d7-474e-bd66-e7e51f6a0072">
 <img width="221" alt="captura3" src="https://github.com/user-attachments/assets/8d253611-e2b0-4510-96aa-6339ee850e91">
