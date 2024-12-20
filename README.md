@@ -1,8 +1,7 @@
 # Proyecto de IOS con swift consumiendo la API de  The Movie DB
 Aplicación de películas de TheMoveDB:
 
-El código fuente se puede descargar en el branch "master".
-Tienen que abrir el archivo "MovieTestingApp.xcworkspace" ya que lo estoy haciendo con el Gestor de Dependencia Cocoapods.
+El código fuente se puede descargar en el branch "master". Por tema de seguridad no estoy compartiendo mi APIKEY. Ustedes deben de crear su propia APIKEY de la pagina de TheMovieDB. Tienen que abrir el archivo "MovieTestingApp.xcworkspace" ya que lo estoy haciendo con el Gestor de Dependencia Cocoapods.
 
 
 Tecnologías:
